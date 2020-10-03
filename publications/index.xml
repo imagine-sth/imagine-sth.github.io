@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Mohammad Alali</title>
+    <link>https://imagine-sth.github.io/publications/</link>
+    <description>Recent content in Publications on Mohammad Alali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://imagine-sth.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F. N. Shimim, M. Alali, M. H. Nehrir, J. W. Sheppard, M. Bahramipanah, Z. Shahooei. Resiliency-Aware Power Management of Microgrids using Agent-based Dynamic Programming and Q-learning</title>
+      <link>https://imagine-sth.github.io/publications/nns/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://imagine-sth.github.io/publications/nns/</guid>
+      <description>Abstract: Appropriate planning and optimization strategies for day-ahead power management play important roles in efficient operation of Microgrids (MGs). Due to the uncertainties in electricity demand and renewable generations, and the multi-objective (MO) nature of MG power management, conventional optimization techniques have not been as effective in giving satisfactory results. This paper aims at solving the day-ahead power management problem as a MO optimization problem, with a focus on increasing the system’s resiliency using an agent-based Dynamic Programming (DP) approach named Value Iteration (VI) and a model-free Q-learning (QL) algorithm.</description>
+    </item>
+    
+    <item>
+      <title>M. Alali, F. N. Shimim, Z. Shahooei, M. Bahramipanah. Intelligent Line Congestion Prognosis in Active Distribution System Using Artificial Neural Network</title>
+      <link>https://imagine-sth.github.io/publications/mdps/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://imagine-sth.github.io/publications/mdps/</guid>
+      <description>Abstract: This paper proposes an intelligent line congestion prognosis scheme based on wide-area measurements, which accurately identifies an impending congestion and the problem causing the congestion. Due to the increasing penetration of renewable energy resources and uncertainty of load/generation patterns in the Active Distribution Networks (ADNs), power line congestion is one of the issues that could happen during peak load conditions or high-power injection by renewable energy resources. Congestion would have devastating effects on both the economical and technical operation of the grid.</description>
+    </item>
+    
+  </channel>
+</rss>
